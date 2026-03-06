@@ -1,5 +1,16 @@
 # Vaja12-UART-NEXTION-DISCOVERY
 
+
+PINOUT:<img width="662" height="517" alt="image" src="https://github.com/user-attachments/assets/186ceb5c-f438-4555-bf05-679e56e9a1ac" />
+
+
+
+
+
+
+
+
+
 2.
 
 d) Nextion je objekt poimenoval z0
@@ -28,7 +39,7 @@ Nextion za konec vsakega ukaza ki ga prejme preko UART zahteva tri zaporedne baj
 
 Nextion sprejme ASCII znake za števke od 0 do 9, s katerimi se sestavi trimestno število.
 
-
+KOMENTAR: Najprej sva imela nekaj težav pri programiranju v Nextion Editor in z vstavljanjem slik. Nato pa sva brez težav še nastavila pinout v IDE in napisala main.c.  
 
 
 
